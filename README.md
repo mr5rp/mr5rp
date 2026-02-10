@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhanshu+(SRP);Electronics+Engineer;Embedded+Systems+%26+AI%2FML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&size=30&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudhanshu+(SRP);Electronics+Engineer;Embedded+Systems+%26+AI%2FML+Enthusiast" />
 </p>
 
 <p align="center">
